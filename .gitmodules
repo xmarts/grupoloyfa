@@ -1,0 +1,3 @@
+[submodule "replace-purchase-tag"]
+	path = replace-purchase-tag
+	url = git@github.com:xmarts/replace-purchase-tag.git
